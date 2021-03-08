@@ -1,3 +1,5 @@
 # BPM Estimate: Librosa VS WDT
-[Marco Ziccardi's Blog & Scala Implementation](http://mziccard.me/2015/06/12/beats-detection-algorithms-2/)<br>
+
+# References:
+[Audio Analysis using the Discrete Wavelet Transform](http://soundlab.cs.princeton.edu/publications/2001_amta_aadwt.pdf)<br>
 example of implementation https://github.com/bladechapman/Estimate-BPM
