@@ -1,4 +1,4 @@
-# BPM Estimate: Librosa VS WDT
+# BPM Estimate: Librosa VS DWT
 
 # References:
 [Audio Analysis using the Discrete Wavelet Transform](http://soundlab.cs.princeton.edu/publications/2001_amta_aadwt.pdf)<br>
